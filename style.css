@@ -6,7 +6,7 @@
 body{
     height: 100vh;
     width: 100vw;
-    background-image: url("aaaa.gif");
+    background-image: url("background.gif");
     background-size: contain;
     font-family: 'Architects Daughter', cursive;
 }
